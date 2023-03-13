@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -i "root" 14-findthatword
+grep -i "root" /etc/passwd
